@@ -3,4 +3,5 @@
 
 
 Batflietrtagy = 'Beautiful is better than ugly.'
+
 print(Batflietrtagy, '-', 'строка с четными индексами:', Batflietrtagy[:30:2])

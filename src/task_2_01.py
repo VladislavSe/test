@@ -7,4 +7,3 @@ lastname = 'Иванов'
 age = '35'
 
 print(f"Привет, меня зовут {firstname} {lastname}, мне {age}")
-
