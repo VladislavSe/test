@@ -4,6 +4,7 @@
 # Все изменения выводить на экран.
 
 l1 = [1, 2, 3, 'hello', 'world', True]
+
 l1.append('Melon')
 
 print(l1)

@@ -3,7 +3,9 @@
 # Примечание:Переменную age задавать как строку ‘35’
 
 firstname = 'Иван'
+
 lastname = 'Иванов'
+
 age = '35'
 
 print(f"Привет, меня зовут {firstname} {lastname}, мне {age}")
